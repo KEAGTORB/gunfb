@@ -1,1 +1,1 @@
-# fluffy-adventu
+# fluffy-adventure
